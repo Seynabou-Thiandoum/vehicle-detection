@@ -1,0 +1,15 @@
+libgl1-mesa-glx
+libglib2.0-0
+```
+
+## 📤 **Comment l'Ajouter**
+
+### **Option 1 : Via GitHub Web (Recommandé)**
+
+1. Allez sur : https://github.com/VOTRE_USERNAME/vehicle-detection
+2. Cliquez sur **"Add file"** → **"Create new file"**
+3. Nom du fichier : `packages.txt`
+4. Contenu :
+```
+   libgl1-mesa-glx
+   libglib2.0-0
