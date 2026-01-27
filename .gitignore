@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Fichiers temporaires
+temp_result.jpg
+*.jpg
+*.png
+!best.pt
+
+# OS
+.DS_Store
+Thumbs.db
